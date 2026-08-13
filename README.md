@@ -7,7 +7,7 @@
 
 ## 💬 About me: 
 
-- I’m currently a online university student studying at Brigham Young University.
+- I’m currently a online university student, studying software development at Brigham Young University.
   
 - I’m currently advancing my knowledge on front end development languages like JavaScript, CSS and HTML.
   
