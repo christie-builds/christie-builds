@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christie</h1>
 <h3 align="center">A Passionate Full Stack Software Developer from South Africa</h3>
 
-<div align="center">
-<img height="300" width="700" alt="Dragon Ball GIF" align="center" src="https://github.com/christie-builds/christie-builds/blob/main/dragon%20ball%20z%20GIF.gif">
-</div>
-
 ## 💬 About me: 
 
 - I’m currently a online university student, studying software development at Brigham Young University.
